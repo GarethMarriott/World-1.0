@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Project\World 1.0" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="All_provinces.cs" t="Include" />
+        <e p="Army.cs" t="Include" />
+        <e p="BayatGames" t="Include">
+          <e p="Free Platform Game Assets" t="Include">
+            <e p="Readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Country.cs" t="Include" />
+        <e p="Economy - Copy.cs" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="MicroSplat" t="Include">
+          <e p="Core" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Scene" t="Include">
+                <e p="MicroSplatData" t="Include">
+                  <e p="MicroSplat.shader" t="Include" />
+                  <e p="MicroSplat_Base.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="FeatureDescriptor.cs" t="Include" />
+                <e p="Fragments" t="Include">
+                  <e p="microsplat_properties_splat.txt" t="Include" />
+                  <e p="microsplat_shared.txt" t="Include" />
+                  <e p="microsplat_terrain_body.txt" t="Include" />
+                  <e p="microsplat_terrain_surface_fragment.txt" t="Include" />
+                  <e p="microsplat_terrain_surface_vertex.txt" t="Include" />
+                </e>
+                <e p="InternalShaders" t="Include">
+                  <e p="HeightFromNormal.shader" t="Include" />
+                  <e p="NormalSAOFromDiffuse.shader" t="Include" />
+                  <e p="NormalSAOFromHeight.shader" t="Include" />
+                  <e p="NormalSAOFromNormal.shader" t="Include" />
+                </e>
+                <e p="IRenderLoopAdapter.cs" t="Include" />
+                <e p="MicroSplatBaseFeatures.cs" t="Include" />
+                <e p="MicroSplatDefines.cs" t="Include" />
+                <e p="MicroSplatShaderGUI.cs" t="Include" />
+                <e p="MicroSplatShaderGUI_Compiler.cs" t="Include" />
+                <e p="MicroSplatShaderGUI_PerTex.cs" t="Include" />
+                <e p="MicroSplatTerrainEditor.cs" t="Include" />
+                <e p="MicroSplatTerrainEditor_Baking.cs" t="Include" />
+                <e p="MicroSplatTerrainEditor_TerrainDesc.cs" t="Include" />
+                <e p="MicroSplatTerrainEditor_WeightLimiting.cs" t="Include" />
+                <e p="MicroSplatUtilities.cs" t="Include" />
+                <e p="SurfaceShaderRenderLoopAdapter.cs" t="Include" />
+                <e p="TextureArrayConfigEditor.cs" t="Include" />
+                <e p="TextureArrayEditor.cs" t="Include" />
+                <e p="TextureArrayPreprocessor.cs" t="Include" />
+              </e>
+              <e p="MicroSplatAddPass.shader" t="Include" />
+              <e p="MicroSplatObject.cs" t="Include" />
+              <e p="MicroSplatPropData.cs" t="Include" />
+              <e p="MicroSplatRuntimeUtil.cs" t="Include" />
+              <e p="MicroSplatTerrain.cs" t="Include" />
+              <e p="TextureArrayConfig.cs" t="Include" />
+              <e p="VegetationStudio" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="microsplat_func_vsgrassmap.txt" t="Include" />
+                  <e p="microsplat_func_vsshadowmap.txt" t="Include" />
+                  <e p="microsplat_properties_vsgrassmap.txt" t="Include" />
+                  <e p="microsplat_properties_vsshadowmap.txt" t="Include" />
+                  <e p="MicroSplatVegetationStudio.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Province - Copy.cs" t="Include" />
+        <e p="Province.cs" t="Include" />
+        <e p="Unit.cs" t="Include" />
+        <e p="Worker.cs" t="Include" />
+        <e p="WorldMaps" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="OnlineTextures" t="Include">
+              <e p="BingMapsTexture.cs" t="Include" />
+              <e p="OnlineTexture.cs" t="Include" />
+              <e p="WMSTexture.cs" t="Include" />
+            </e>
+            <e p="Planes" t="Include">
+              <e p="PlanesFactory.cs" t="Include" />
+              <e p="QuadtreeLODPlane.cs" t="Include" />
+            </e>
+            <e p="Utilities" t="Include">
+              <e p="CameraMovement.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="World 1.0.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\gpmar\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gpmar\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_World 1.0.-1934279584.00" t="ExcludeRecursive" />
+  </component>
+</project>
